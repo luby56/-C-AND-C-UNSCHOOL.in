@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+	<head><script src="/gdpr/gdprscript.js?buildTime=1604698085&hasRemindMe=true&stealth=false"></script>
+		<title>Turbo C for Windows 7 and 8 - Turbo C++</title><meta property="og:site_name" content="Turbo C for Windows 7 and 8" />
+<meta property="og:title" content="Turbo C for Windows 7 and 8" />
+<meta property="og:description" content="Turbo C for windows 8, 7 and Vista" />
+<meta property="og:url" content="http://nvstech.weebly.com/" />
+
+<meta name="description" content="Turbo C for windows 8, 7 and Vista" />
+<meta name="keywords" content="Turbo C for Windows 8, Turbo C for Windows 7, TurboC++ for windows 8,TurboC++ for windows 7,TurboC++ for windows Vista, TurboC windows Vista,Turbo C++ for windows 8,Turbo C++ for windows 7,Turbo C++ for windows Vista ,neutronstriker,neutronvegeto,neutronv" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/sites.css?buildTime=1472081458" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/old/fancybox.css?1234" />
+<link rel="stylesheet" type="text/css" href="/files/main_style.css?1472086883" title="wsite-theme-css" />
+
+<style type='text/css'>
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Comic Sans MS" !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Comic Sans MS" !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {font-family:"Comic Sans MS" !important;}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+</style>
+
+<style type='text/css'>
+.wsite-header {
+	background-image: url(/uploads/7/9/6/5/7965296/header_images/1367853446.jpg) !important;
+	background-position: 0 0 !important;
+}
+</style>
+
+		<script><!--
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&"></script>
+<script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1472081458"></script><script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1472081458&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"><!--
+	
+	
+	(function(jQuery){
+		function initFlyouts(){
+			initPublishedFlyoutMenus(
+				[{"id":"673366894870145452","title":"Turbo C++","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"656299451719619888","title":"About Me","url":"about-me.html","target":"","nav_menu":false,"nonclickable":false},{"id":"173474997771755490","title":"Computer Blogs","url":"computer-blogs.html","target":"","nav_menu":false,"nonclickable":false}],
+				"673366894870145452",
+				'',
+				'active',
+				false,
+				{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+				{}
+			)
+		}
+		if (jQuery) {
+			jQuery(document).ready(function() { jQuery(initFlyouts); });
+		}else{
+			if (Prototype.Browser.IE) window.onload = initFlyouts;
+			else document.observe('dom:loaded', initFlyouts);
+		}
+	})(window._W && _W.jQuery)
+//-->
+</script>
+		
+		
+	</head>
+	<body class=" tall-header-page wsite-theme-light  wsite-page-index"><div id="header-wrap">
+	<div id="header-top">
+		<table id="header">
+			<tr>
+				<td id="logo"><span class="wsite-logo">
+
+	<a href="/">
+	
+	<span id="wsite-title">Turbo C for Windows 7 and 8</span>
+	
+	</a>
+
+</span></td>
+				<td id="header-right">
+					<table>
+						<tr>
+							<td class="phone-number"><span class="wsite-text wsite-phone">
+	Admin
+</span></td>
+							<td class="social"><div style="text-align:left;"><div style="height:0px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class='first-child wsite-social-item wsite-social-facebook' href='//www.facebook.com/neutron.vegetostriker' target='_blank'><span class='wsite-social-item-inner'></span></a></span>
+<div style="height:0px;overflow:hidden"></div></div></td>
+							<td class="search"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<div style="clear:both"></div>
+		<div id="navigation">
+			<ul class="wsite-menu-default">
+					<li id="active" class="wsite-menu-item-wrap">
+						<a
+									href="/"
+							class="wsite-menu-item"
+							>
+							Turbo C&plus;&plus;
+						</a>
+						
+					</li>
+					<li id="pg656299451719619888" class="wsite-menu-item-wrap">
+						<a
+									href="/about-me.html"
+							class="wsite-menu-item"
+							>
+							About Me
+						</a>
+						
+					</li>
+					<li id="pg173474997771755490" class="wsite-menu-item-wrap">
+						<a
+									href="/computer-blogs.html"
+							class="wsite-menu-item"
+							>
+							Computer Blogs
+						</a>
+						
+					</li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="main-wrap">
+	<div id="main">
+		<div id="banner">
+			<div class="wsite-header"></div>
+		</div>
+		<div id="content">
+			<div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<h2 style="text-align:center;"><span style="font-weight: bold; color: rgb(102, 0, 204);">TURBO C, C++ FOR WINDOWS 8, 7 AND VISTA</span><br /></h2>
+<span class='imgPusher' style='float:right;height:0px'></span><span style='position:relative;float:right;z-index:1;;clear:right;margin-top:0px;*margin-top:0px'><a><img class="wsite-image galleryImageBorder" src="/uploads/7/9/6/5/7965296/2058940.jpg?302" style="margin-top: 5px; margin-bottom: 10px; margin-left: 10px; margin-right: 0px; border-width:1px;padding:3px;" alt="Picture" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;"></div></span>
+<div class="paragraph" style="text-align:left;display:block;"><font size="5" color="#000000"><em>Many of you have would tried to install and run turbo C++ in Windows 7 and Vista but may have failed to do so. You may have thought for a while what happened to your favourite C programming IDE(Integrated Development Environment), Which you used to run on Windows XP or 98 without trouble.</em></font><br /><br /><font size="5" color="#009900">The true story behind this problem is that your version of windows has just got better enough or say advanced that it doesn't support the decades old "Dos" based software.</font><br /><br /><font size="4"><span>Windows after <span style="color: rgb(153, 0, 0); font-style: italic; font-weight: bold;">9x(93,95,98 etc)</span> versions are not running of top of dos, they run on a completely different Technology called NT(New Technology), so to provide compatibility with DOS software Microsoft provided these version of windows have a system called NTVDM (NT virtual dos machine), which emulates DOS like environment to run these dos programs but when Windows evolved to Windows Vista and 7 Microsoft <span style="color: rgb(0, 0, 153); font-weight: bold;">removed some capabilities of NTVDM</span>, because of some compatibility issues with Aero graphics and stuff. So now any dos program has no direct access to hardware neither can any dos program <font style="color: rgb(255, 0, 0);"><span style="font-weight: bold;">Go Full-screen.</span></font></span><br /><br /><span>Since i also liked Turbo C++ IDE a lot and had used it a lot at school and college i was frustrated when it didn't run in windows 7 and Vista like it used to, in XP or 98, I started finding ways to run it in Windows 7 in full-screen mode. After a lot of experiment and testing i found that <a title="" target="_blank" href="http://www.dosbox.com/">Dosbox</a> could run it as like the old dos, but it had some problems like key-mapping that conflicted with shortcuts of Turbo C++, so i created a completely new installer for installing Turbo C++ on any version of windows may it be Windows Vista or 7(32&amp;64bit) without any problems just click install and run the program from the desktop shortcut thats it!, Its very easy, atleast easier than installing the old dos based setup of Turbo C++. Just follow the screen shots below......... </span><br /></font><br /><span></span><br /><span><font size="4"><em><font color="#009900">If you want to build this yourself then here is a&nbsp;</font><a href="http://nvstech.weebly.com/2/post/2011/10/first-post.html" style="color: rgb(0, 0, 102);" title="">DIY guide</a><font color="#000066">.</font></em></font></span></div>
+<hr style="clear:both;visibility:hidden;width:100%;"></hr>
+
+<div><div style="text-align: left;"><a><img src="/uploads/7/9/6/5/7965296/1714544.png?892" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 10px; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+<div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/7/9/6/5/7965296/4652405_orig.png" alt="Picture" style="width:100%;max-width:654px" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<h2 class="wsite-content-title" style="text-align:left;">Latest version v3.8.0.1 &nbsp;</h2>
+<div class="paragraph" style="text-align:left;display:block;"><font size="6" color="#ff9900">Get</font><font color="#000000" size="6"> the </font><font size="6" color="#3333ff">Registered Version</font><font color="#000000" size="6"> Just for </font><font size="6" color="#33cc00">$2.99</font><font color="#000000" size="6">, in the registered version you will always get </font><font size="6" color="#cc33cc">priority support</font><font color="#000000" size="6"> through your </font><font size="6" color="#000000">registered email address</font><font color="#000000" size="6">.</font><br /><br /><span style="color: rgb(0, 0, 0); font-size: xx-large; ">Just click below on either </span><span style="font-size: xx-large; "><font color="#330099">Paypal</font></span><span style="color: rgb(0, 0, 0); font-size: xx-large; "> or </span><span style="font-size: xx-large; "><font color="#330099">Payza</font></span><span style="color: rgb(0, 0, 0); font-size: xx-large; "> to Register.</span><br /></div>
+
+<div><div id="968309532325500177" align="right" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VQFYXHDVYK93A">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal -- The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+
+
+
+</div>
+
+<div class="paragraph" style="text-align:left;">Latest News:<br /><ul><li><font size="4">Now "<font color="#000000">TurboC++ for Windows</font>" officially supports installation on </font><font color="#00cccc" size="6">Windows 8</font><font size="4">.</font><br /></li><li><font size="3">Help and Support Will only be provided on supporter Versions.</font></li></ul><br /><br /><br /></div>
+
+<h2 style="text-align:left;">Non-Supporter Versions...</h2>
+<span class='imgPusher' style='float:right;height:63px'></span><span style='position:relative;float:right;z-index:1;;clear:right;margin-top:20px;*margin-top:40px'><a href='https://drive.google.com/file/d/0B-P7CFBtMNLhLV9qSndOSlRHWlk/view?usp=sharing' target='_blank'><img class="wsite-image galleryImageBorder" src="/uploads/7/9/6/5/7965296/_4638878.png" style="margin-top: 0px; margin-bottom: 5px; margin-left: 0px; margin-right: 15px; border-width:0;" alt="Picture" /></a><div style="display: block; font-size: 90%; margin-top: -5px; margin-bottom: 5px; text-align: center;"></div></span>
+<div class="paragraph" style="text-align:left;display:block;"><span style="font-weight: bold;"><font size="5">You can just download and install the setup and enjoy Programming with your Turbo C compiler click here to download.</font></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font size="4"><font color="#fa0505">Google Chrome</font> may report this as malicious but rest assured this is not so please use a <font color="#fd4201">different browser</font> or Turn off the "<font color="#0b3af3">Phishing and Malware protection</font>" temporarily. &nbsp;</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong style="">Alternate&nbsp;Download&nbsp;Links</strong><br /><strong style="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a title="" href="http://www.softpedia.com/get/Programming/Coding-languages-Compilers/TurboCplusplus-for-Windows-7.shtml" target="_blank" style="">Download From&nbsp;Softpedia</a></strong><br /><strong style="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color="#33ccff"><a href="http://turboc-for-windows.soft32.com/" target="_blank" title="">Download from Soft32.com</a></font></strong><strong style="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://turboc-for-windows.software.informer.com/" target="_blank" title="">Download from Software.Informer.com</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><br /><strong style="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/uploads/7/9/6/5/7965296/change-log.txt" title="" style="">Click to View Change Log.</a></strong><br /><strong style="">&nbsp;</strong><br /><br /><font size="5"><span style="line-height: 36px; "><strong><font color="#000000">You Also get the </font><font color="#ff0000">N</font><font color="#3333ff">v</font><font color="#009900">S</font><font color="#ff6600">T</font><font color="#ff99ff">E</font><font color="#ffff00">C</font><font color="#000000">H community&nbsp;</font></strong></span></font><strong style="line-height: 36px; font-size: x-large; "><font color="#000000">Toolbar with it, which will always&nbsp;</font></strong><strong style="line-height: 36px; font-size: x-large; "><font color="#000000">keep you updated about the latest info about "</font><font color="#009900">TurboC++ for &nbsp;Windows 7n8</font><font color="#000000">".</font></strong><br /><font color="#000000" size="5"><span style="line-height: 36px;"><br /></span></font><br /><font size="5"><span style="line-height: 36px;"><strong><font color="#000000">Those who are facing problems like keyboard Certain keys not detected or </font><font color="#f40a0a">Numpad not working</font><font color="#000000"> or </font><font color="#fd0404">freezing of Turbo C window</font><font color="#000000"> Please try below provided Test versions.</font></strong></span></font><br /><font color="#000000" size="5"><span style="line-height: 36px;"><br /></span></font><br /><font size="5"><span style="line-height: 36px;"><strong><font color="#000000">If you want all your </font><font color="#0bf512">drives/Partitions to mounted automatically</font><font color="#000000"> (like some have requested this feature), this feature will provided in the next version, but for now you can download and install the patch </font><font color="#164be4">Drive_Automounter</font><font color="#000000"> below and avail this feature. &nbsp;</font><br /></strong></span></font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br /><strong><font color="#0b2cf0" size="3">TEST Versions and PATCHES:-</font></strong><br /><ul><li><font color="#2a2a2a" size="3"><span style="line-height: 24px;"><a href="/uploads/7/9/6/5/7965296/beta-1_dyncore_update.exe" title="">Beta-1 Update<br /></a></span></font></li><li><font color="#2a2a2a" size="3"><span style="line-height: 24px;"><a href="/uploads/7/9/6/5/7965296/beta-2_dyncore_update.exe" title="">Beta-2 Update</a></span></font></li><li><font color="#2a2a2a" size="3"><span style="line-height: 24px;"><a href="/uploads/7/9/6/5/7965296/beta-3_dynrec_update.exe" title="">Beta-3 Update</a></span></font></li><li><font color="#2a2a2a" size="3"><span style="line-height: 24px;"><a href="/uploads/7/9/6/5/7965296/beta-4_dynrec_update.exe" title="">Beta-4 Update</a></span></font></li><li><font color="#2a2a2a" size="3"><span style="line-height: 24px;"><a href="/uploads/7/9/6/5/7965296/drives_automounter.exe" title="">Drive Automounter</a></span></font></li></ul><br /><br /><font size="4">After Downloading and installing these patches please post your results in the comments below so that other users can also benefit from your test. While posting please post your Laptop/Desktop model or Chipset type and the problem you were facing, also which patch &nbsp;version solved your problem.</font><br /><br /><span></span> <font size="4"><strong style="color: rgb(51, 51, 255);">Download Older Versions:-</strong></font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<ul><li><span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;<a title="" target="_blank" href="http://www.mediafire.com/download.php?iyss7o9f6eh2yyi">TurboC++ for Windows_v3.1.2.7r</a>&nbsp; &nbsp;<br /></span></li><li><span style="color: rgb(0, 0, 0);"></span> &nbsp;<a href="http://www.mediafire.com/download/ns6msioigk49cbf/Turboc%2B%2B%20for%20Windows%203.1.0.5rc.zip" target="_blank" title=""> TurboC++ for Windows_v3.1.0.5rc</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></li><li>&nbsp; <a title="" target="_blank" href="http://www.mediafire.com/download/8fzx1ip97ooxor2/Turboc%2B%2B%20for%20Windows%203.1.0.1rc.zip">TurboC++ for Windows_v3.10.1rc </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></li><li>&nbsp; <a title="" target="_blank" href="https://dl.dropbox.com/s/n31d3y2me2s1azx/TurboC%2B%2B%20for%20Windows%2078beta.zip">TurboC++ for Windows_v3.0.7.8beta</a><span style="line-height: 1.5;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><strong style="line-height: 1.5;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style="line-height: 1.5;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong style="line-height: 1.5;">&nbsp;</strong></li></ul><font color="#ff0000" size="4"><br />Important Info:-</font><ul><li><font size="5"><font color="#000000">From version </font><font color="#ff0000">3.7.8.9m_r</font><font color="#000000"> on-wards users can select their own installation directory.</font> But still default is <font color="#3333ff">"C:\TurboC++"</font>. So users can also install in D, E or F, or any other Drive of User choice. Can also be installed as <font color="#000000">Limited or Guest User</font>.</font></li><li><font color="#3333ff" size="5">Important info while running in Windows 8</font><font size="3">: If your keyboard layout is any other than </font><font color="#cc0000" size="4">English(US) </font><font size="3">Keyboard Short-Cuts <font color="#000000"><strong>will not Work.</strong></font>&nbsp;</font></li><li><font size="5">For those who are having Problems with processing of <font color="#5848b7">Floating point numbers</font><font color="#5848b7">&nbsp;</font><span style="line-height: 24px;">or are getting garbage values then use <font color="#47f014">beta-3</font> or <font color="#12fa0c">beta-4 </font>update patch.</span></font></li><li><font size="3">During re-installation please un-install it properly back-up all the source code files from "<font color="#999900"><strong>C:\turboc++\disk\</strong></font>" folder and delete&nbsp;</font><span style="font-size: medium;">the folder&nbsp;&nbsp;"<strong style=""><font color="#999900">C:\turboc++</font></strong>", reboot your computer and then you can proceed to re-installing it.</span></li><li><span style="font-size: medium;">As reported by some users, if mouse hangs after running a program you can re-enable it by selecting <strong><font color="#ff0000">repaint desktop</font></strong> option from main menu. For that first press F10 use arrow keys to goto main menu(left of FILE menu) and select Repaint Desktop.</span></li><li><span style="font-size: medium;">For the convenience of the users some <font color="#33cc00">example</font> programs have been given.</span></li><li><span style="font-size: medium;">Un-installing won't delete the source files you created, you can find them in "<font color="#993300"><strong>C:\TurboC++\Disk</strong></font>" folder.</span></li><li><font size="3">For </font><font color="#ff0000" size="4">Graphics programming</font><font size="3"> please use "<strong><font color="#000000">C:\\Turboc3\\BGI</font></strong>" instead of "<strong><font color="#000000">C:\\Tc\\BGI</font></strong>" as BGI path.</font></li><li><span style="font-size: medium;">People who have problem regarding inserting special symbols please use the key-mapper to suite your needs, it can &nbsp;be opened by pressing "<font color="#009900"><strong>Ctrl+alt+F1</strong></font>" and change the mapping according to your needs, please don't toggle it if you don't know what you are doing.</span></li><li><span style="font-size: medium;">Some people using this on laptops or AIO-pc (especially on HPQ laptops) face some problems like malfunction of symbols on keyboard, it is due to the multimedia enhancement driver or remote controller provided with the laptop. This issue can be resolved by un-installing those drivers. In &nbsp;future release those problems will be solved.</span></li><li><font size="3">Keep checking for a update in case of trouble, this has been tested on Windows 7 32 and 64 bit and works fine, and if any problem is found then please report at </font><font color="#000000" size="4">striker.dbz@hotmail.com,</font><font size="3"> it will be resolved in future releases.</font></li></ul><font color="#009900" size="5">Please keep visiting, to make sure you are using the latest version...</font></div>
+<hr style="clear:both;visibility:hidden;width:100%;"></hr>
+
+<h2 style="text-align:left;">Important Info for version <font color="#ff0000">3.1.0.5</font>&nbsp;:-</h2>
+<span class='imgPusher' style='float:left;height:0px'></span><span style='position:relative;float:left;z-index:1;;clear:left;margin-top:0px;*margin-top:0px'><a><img class="wsite-image galleryImageBorder" src="/uploads/7/9/6/5/7965296/5176424.jpg?397" style="margin-top: 5px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:1px;padding:3px;" alt="Picture" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;"></div></span>
+<div class="paragraph" style="text-align:left;display:block;"><font color="#330099" size="3">Some users might be facing a problem like this, if so please download the latest version from the above link.</font><br /><br /><font size="3">If still problem is not solved then download one of the older version from below, until the problem is solved, here are the links :</font><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://adf.ly/DQN9y" target="_blank" title="">version 3.1.0.1rc</a> &nbsp;or <a href="http://adf.ly/DQN9z" target="_blank" title="">version 3.0.7.8b</a></div>
+<hr style="clear:both;visibility:hidden;width:100%;"></hr>
+
+<div><div id="172265139904081771" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://nvstech.weebly.com/" data-send="true" data-width="450" data-show-faces="true"></div>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone annotation="inline"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<meta property="og:title" content="Neutron VegetO's Tech Page" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://nvstech.weebly.com/" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Neutron VegetO's Tech Page" />
+<meta property="fb:admins" content="1" />
+<div class="fb-comments" data-href="http://nvstech.weebly.com" 
+data-num-posts="10" data-width="600"></div></div>
+
+
+
+</div>
+</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div id="footer-wrap">
+	<div id="footer">
+		
+
+<style type="text/css">
+	@font-face {
+		font-family: SQMarket-Medium;
+		font-style: normal;
+		font-weight: 500;
+		src:
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2") format("woff2"),
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff") format("woff");
+	}
+</style>
+
+<div id="weebly-footer-signup-container-v3">
+	<a
+		href="https://www.weebly.com/signup?utm_source=internal&utm_medium=footer"
+		target="_blank"
+		class="signup-container-header"
+		id="signup-link-href"
+	>
+		<div class="powered-by">
+			<div class="footer-published-ab-powered-by">
+				Powered by <span class="link weebly-icon"></span>
+				<img class="footer-ab-published-toast-image" src="//cdn2.editmysite.com/images/site/footer/footer-toast-published-image-1.png">
+				<span class="footer-ab-published-toast-text">Create your own unique website with customizable templates.</span>
+				<span class="footer-ab-published-toast-button-wrapper">
+					<button class="footer-published-ab-button">Get Started</button>
+				</span>
+			</div>
+		</div>
+	</a>
+</div>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1604698085"></script>
+<script type="text/javascript">
+	if (document.readystate === 'complete') {
+		Weebly.footer.setupContainer('cdn2.editmysite.com', '1604698085');
+	} else {
+		document.addEventListener('DOMContentLoaded', function() {
+			Weebly.footer.setupContainer('cdn2.editmysite.com', '1604698085');
+		});
+	}
+</script>
+
+<script type='text/javascript'>
+//<!--
+
+if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
+	var windowHref = window.location.href || '';
+	if (windowHref.indexOf('?') > -1) {
+		windowHref += '&';
+	} else {
+		windowHref += '?';
+	}
+	document.write(
+		"&nbsp;&nbsp;&nbsp;&nbsp;" +
+		"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"
+	);
+}
+
+//-->
+</script>
+		<div class="clear"></div>
+	</div>
+</div>
+
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27613446-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+</script>
+
+<script type="text/javascript" async=1>
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '7965296';
+	_W.Analytics.site_id = '119653880493859935';
+
+	// Setting do not track if the GDPR cookie is not present. This is then checked by the snowday initializer
+	// to set tracking decisions. https://github.com/snowplow/snowplow-javascript-tracker/blob/2.6.2/src/js/tracker.js#L1509
+	window.doNotTrack = document.cookie.indexOf('gdpr-kb') === -1 ? 'yes' : null;
+
+	var drSegmentsTag = document.getElementById('drSegments');
+	if (drSegmentsTag) {
+		_W.Analytics.spContexts = _W.Analytics.spContexts || [];
+
+		var segmentData = JSON.parse(drSegmentsTag.innerText);
+		segmentData.forEach(function(test) {
+			_W.Analytics.spContexts.push({
+				schema: "iglu:com.weebly/context_ab_segment/jsonschema/1-0-0",
+				data: {
+					test_id: test.name,
+					segment: test.variant,
+				}
+			});
+		});
+	}
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			},
+			respectDoNotTrack: document.cookie.indexOf('gdpr-kb') === -1
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id, _W.Analytics.spContexts);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		false
+	);
+</script>
+
+
+
+
+
+<script>
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+<script>
+	window._W.isEUUser = false;
+	window._W.showCookieToAll = "";
+</script>
+
+
+	</body>
+</html>
